@@ -1,1 +1,1 @@
-# ppm
+# image/ppm
